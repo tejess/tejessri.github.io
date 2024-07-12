@@ -21,7 +21,7 @@ repository               : "tejess/tejess.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Image_Tejes_Srivastava.jpeg"
   name             : "Tejes Srivastava"
   pronouns         : # example: "she/her"  
   bio              : "Predoctoral Master's Student focusing on NLP and Speech Processing"
