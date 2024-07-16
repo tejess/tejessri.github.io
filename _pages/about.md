@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Predoctoral Master's Student at the University of Chicago where I am currently advised [by Chenhao Tan] (https://chenhaot.com/). I have been fortunate to work alongside Professor Shinji Watnabe from Carnegie Mellon Univerity and Karen Livescu from TTIC on other collaborations.
+Hello! I am a Predoctoral Master's Student at the University of Chicago where I am currently advised [by Chenhao Tan](https://chenhaot.com/). I have been fortunate to work alongside Professor Shinji Watnabe from Carnegie Mellon Univerity and Karen Livescu from TTIC on other collaborations.
 
 My current research interests are in **Speech Processing and NLP**. Specifically, I have been working towards creating lightweight architectures in my previous and current works on Speech Processing. I am interested in developing foundation models and working towards interpretability of models. In my work with NLP, I have focused on exploring the use of LLMs as tools. I am interested in performing research on multi-agent frameworks.
 
