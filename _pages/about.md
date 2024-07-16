@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello! I am a Predoctoral Master's Student at the University of Chicago where I am currently advised [by Chenhao Tan] (https://chenhaot.com/). I have been fortunate to work alongside Professor Shinji Watnabe from Carnegie Mellon Univerity and Karen Livescu from TTIC on other collaborations.
+
+My current research interests are in **Speech Processing and NLP**. Specifically, I have been working towards creating lightweight architectures in my previous and current works on Speech Processing. I am interested in developing foundation models and working towards interpretability of models. In my work with NLP, I have focused on exploring the use of LLMs as tools. I am interested in performing research on multi-agent frameworks.
+
+I am currently interning at Lawrence Livermore National Labs, where I am working on LLM evaluation.
 
 A data-driven personal website
 ======
