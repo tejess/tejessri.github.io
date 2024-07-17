@@ -11,7 +11,7 @@ Hello! I am a Predoctoral Master's Student at the University of Chicago where I 
 
 My current research interests are in **Speech Processing and NLP**. Specifically, I have been working towards creating lightweight architectures in my previous and current works on Speech Processing. In my work with NLP, I have focused on exploring the use of LLMs as tools. The following are some directions I would love to explore in the near future: 
 * development of foundation models for Audio
-* interpretability of models (both audio and 
+* interpretability of models (for both Audio and Text)
 * multi-agent frameworks
 
 I am currently interning at Lawrence Livermore National Labs, where I am working on LLM evaluation and benchmarking.
