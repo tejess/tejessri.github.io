@@ -17,7 +17,7 @@ My current research interests are in **Speech Processing and NLP**. Specifically
 
 I am currently interning at Lawrence Livermore National Labs, where I am working on LLM evaluation and benchmarking.
 
-If you are interested in collaboration or just talking, feel free to reach out to me at tejess@uchicago.edu!
+If you are interested in collaborating or just talking, feel free to reach out to me at tejess@uchicago.edu!
 
 A data-driven personal website
 ======
