@@ -13,6 +13,7 @@ My current research interests are in **Speech Processing and NLP**. Specifically
 * development of foundation models for Audio
 * interpretability of models (for both Audio and Text)
 * multi-agent frameworks
+* AI+science/social science
 
 I am currently interning at Lawrence Livermore National Labs, where I am working on LLM evaluation and benchmarking.
 
